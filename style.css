@@ -2,6 +2,26 @@
 h1
 {
     text-align: center;
-    color: yellow;
-    background-color: blue;
+    color: white;
+    background-color: blueviolet;
+    size: 50cap;
+    border-radius: 25%;
+    border: 100cap;
+}
+ a
+ {
+    text-align: center;
+    text-align: end;
+    color: white;
+    background-color: blueviolet;
+ }
+
+ h2
+{
+    text-align: center;
+    color: white;
+    background-color: blueviolet;
+    size: 50cap;
+    border-radius: 25%;
+    border: 100cap;
 }
